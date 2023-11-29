@@ -1,0 +1,37 @@
+body{
+    background-color:#e4d6b8;
+}
+
+.card-link {
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 20px;
+    color: rgb(53, 39, 39);
+}
+
+.card-link:hover {
+    color: crimson;
+
+}
+
+.small-cards>card {
+        width: 349px;
+        box-shadow: 10px 10px 40px 20px #0000001A;
+        margin-right: 31px;
+        background-color: #fff;
+        margin-top: -80px;
+        padding: 10px 10px;
+}
+
+.advant {
+    display: flex;
+    justify-content: center;
+}
+
+.footer {
+    background-color:rgb(53, 39, 39);;
+}
+
+.footer-copyright-name {
+    color: #fff;
+}
