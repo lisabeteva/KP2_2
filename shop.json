@@ -5,7 +5,7 @@
       "vendor_code": "111",
       "description": "Три яйца, листья салата",
       "price": 150,
-      "img": "/images/omlet.jpg"
+      "img": "omlet.jpg"
     },
     {
       "id": "2",
@@ -13,7 +13,7 @@
       "vendor_code": "222",
       "description": "Три яйца, листья салата",
       "price": 140,
-      "img": "/images/glaz.jpg"
+      "img": "glaz.jpg"
     },
     {
       "id": "3",
@@ -21,7 +21,7 @@
       "vendor_code": "333",
       "description": "Два яйца, томаты, лук, специи",
       "price": 242,
-      "img": "/images/shaksh.jpg"
+      "img": "shaksh.jpg"
     },
     {
       "id": "4",
@@ -29,7 +29,7 @@
       "vendor_code": "444e",
       "description": "на воде/на молоке",
       "price": 120,
-      "img": "/images/ovs.jpg"
+      "img": "ovs.jpg"
     }
     ,
     {
@@ -38,7 +38,7 @@
       "vendor_code": "4445e",
       "description": "на воде/на молоке",
       "price": 130,
-      "img": "/images/ris.jpg"
+      "img": "ris.jpg"
     },
     {
       "id": "6",
@@ -46,7 +46,7 @@
       "vendor_code": "4446e",
       "description": "со сливочным соусом",
       "price": 300,
-      "img": "/images/intable.jpg"
+      "img": "intable.jpg"
     },
     {
       "id": "7",
@@ -54,7 +54,7 @@
       "vendor_code": "4447e",
       "description": "200 ml",
       "price": 80,
-      "img": "/images/amerikano.jpg"
+      "img": "amerikano.jpg"
     },
     {
       "id": "8",
@@ -62,7 +62,7 @@
       "vendor_code": "4448e",
       "description": "200 ml",
       "price": 100,
-      "img": "/images/cap.jpg"
+      "img": "cap.jpg"
     },
     {
       "id": "9",
@@ -70,7 +70,7 @@
       "vendor_code": "444e",
       "description": "черный/зеленый",
       "price": 75,
-      "img": "/images/tea.jpg"
+      "img": "tea.jpg"
     }
     ,
     {
